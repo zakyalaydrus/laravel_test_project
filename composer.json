@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
+    "name": "mzakyalaydrus/project",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "Private Laravel Framework.",
     "keywords": [
         "framework",
         "laravel"
